@@ -1,0 +1,19 @@
+# --- Python (ملفات الكود المترجم والمؤقت) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Editors (ملفات محرر الأكواد) ---
+.vscode/
+.idea/
+
+# --- Operating System (ملفات نظام التشغيل) ---
+.DS_Store          # خاص بالـ Mac
+Thumbs.db          # خاص بالـ Windows
+desktop.ini        # خاص بالـ Windows
+
+# --- Environment (بيئات العمل الافتراضية) ---
+venv/
+env/
+.env
