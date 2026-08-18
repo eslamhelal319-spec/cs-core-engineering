@@ -9,9 +9,11 @@ __pycache__/
 .idea/
 
 # --- Operating System (ملفات نظام التشغيل) ---
-.DS_Store          # خاص بالـ Mac
-Thumbs.db          # خاص بالـ Windows
-desktop.ini        # خاص بالـ Windows
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
 
 # --- Environment (بيئات العمل الافتراضية) ---
 venv/
