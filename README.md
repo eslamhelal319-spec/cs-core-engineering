@@ -17,9 +17,6 @@ A 60-day intensive engineering roadmap focused on computer science fundamentals,
 - **Software Engineering:** Data Structures, Algorithms, REST APIs, Git/GitHub, Docker Basics
 
 ---
-
-## 📂 Repository Structure
-
 ## 📂 Repository Structure
 
 ```text
