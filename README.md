@@ -17,9 +17,9 @@ A 60-day intensive engineering roadmap focused on computer science fundamentals,
 - **Software Engineering:** Data Structures, Algorithms, REST APIs, Git/GitHub, Docker Basics
 
 ---
+
 ## 📂 Repository Structure
 
-```text
 cs-core-engineering/
 ├── README.md
 ├── week01-python-tools/
@@ -30,6 +30,7 @@ cs-core-engineering/
 ├── week06-os-linalg/
 ├── week07-stack-and-oss/
 └── week08-capstone/
+
 ---
 
 ## 📊 Progress Tracker
