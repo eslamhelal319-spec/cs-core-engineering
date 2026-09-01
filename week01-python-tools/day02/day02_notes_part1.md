@@ -27,7 +27,7 @@ if x < y:
 
 
 *   **Colon (`:`):** Every conditional statement line must end with a colon .
-*   **Indentation:** Python does **not** use curly braces to group blocks of code; it strictly relies on indentation (usually 4 spaces or 1 tab) [5, 24]. If indentation is omitted, your program will not work .
+*   **Indentation:** Python does **not** use curly braces to group blocks of code; it strictly relies on indentation (usually 4 spaces or 1 tab) . If indentation is omitted, your program will not work .
 
 ---
 
@@ -42,7 +42,7 @@ if x > y:
 if x == y:
     print("x is equal to y")
 ```
-*   **Drawback:** The computer is forced to ask all three questions sequentially, even if the first condition was already found to be `True` [10]. This is repetitive and inefficient .
+*   **Drawback:** The computer is forced to ask all three questions sequentially, even if the first condition was already found to be `True` . This is repetitive and inefficient .
 
 #### 2. The Mutually Exclusive Approach (`elif`)
 By using `elif` (else if), we make the conditions mutually exclusive. Once Python finds a condition that evaluates to `True`, it executes that block and stops asking further questions :
@@ -100,7 +100,7 @@ In Python, you can chain comparisons together just like in mathematics, which is
 if 90 <= score <= 100:
     print("Grade: A")
 ```
-[29, 30]
+
 
 ---
 
